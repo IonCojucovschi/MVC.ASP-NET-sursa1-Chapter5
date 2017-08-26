@@ -1,0 +1,94 @@
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\csc.exe
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\csc.exe.config
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\csc.rsp
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\csi.exe
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\csi.rsp
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\System.AppContext.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\System.Collections.Immutable.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\System.IO.FileSystem.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\vbc.exe
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\vbc.exe.config
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\vbc.rsp
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\VBCSCompiler.exe
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\roslyn\VBCSCompiler.exe.config
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\Chapter 5.dll.config
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\Chapter 5.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\Chapter 5.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\Microsoft.Web.Infrastructure.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\System.Web.Helpers.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\System.Web.Mvc.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\System.Web.Razor.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\System.Web.Webpages.Deployment.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\System.Web.Webpages.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\System.Web.Webpages.Razor.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\System.Web.Razor.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\System.Web.Webpages.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\System.Web.Webpages.Deployment.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\System.Web.Webpages.Razor.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\System.Web.Helpers.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\bin\System.Web.Mvc.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\obj\Debug\Chapter 5.csprojResolveAssemblyReference.cache
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\obj\Debug\Chapter 5.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 5\Chapter 5\obj\Debug\Chapter 5.pdb
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\csc.exe
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\csc.exe.config
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\csc.rsp
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\csi.exe
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\csi.rsp
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\System.AppContext.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\vbc.exe
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\vbc.exe.config
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\vbc.rsp
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\Chapter 5.dll.config
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\Chapter 5.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\Chapter 5.pdb
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\System.Web.Helpers.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\System.Web.Mvc.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\System.Web.Razor.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\System.Web.Webpages.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\System.Web.Razor.xml
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\System.Web.Webpages.xml
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\System.Web.Helpers.xml
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\bin\System.Web.Mvc.xml
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\obj\Debug\Chapter 5.csprojResolveAssemblyReference.cache
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\obj\Debug\Chapter 5.dll
+C:\Users\Ion C#\Desktop\MVC.ASP-NET-sursa1-Chapter5-master\Chapter 5\obj\Debug\Chapter 5.pdb
